@@ -34,7 +34,8 @@
 }
 
 .header .inner-header .nav .gnb{
-  flex: 0 1 300px;
+  /* flex: 0 1 300px; */
+  flex: 0 1 18.75rem;
   height: auto;
   /* background-color: aqua; */
 }
@@ -47,7 +48,7 @@
   line-height: 40px;
   text-align: center;
   /* background-color: #913b3b; */
-  font-size: 16px;
+  font-size: 1rem;
   font-family: 'Noto Sans KR', sans-serif;
 }
 .header .inner-header .nav .gnb ul>li a{
