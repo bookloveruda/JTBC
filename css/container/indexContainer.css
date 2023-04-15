@@ -151,3 +151,14 @@
   top: 0;
   opacity: 1;
 }
+
+
+@media only screen and (max-width:767px){
+  .container .sections .section.sec .sec-con>ul{
+    grid-template-columns: repeat(2, 1fr) ;
+    gap: 10px;
+  }
+  .popUp .popUp-con{
+    flex: 0 1 400px;
+  }
+  }

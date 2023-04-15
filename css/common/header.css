@@ -47,6 +47,8 @@
   line-height: 40px;
   text-align: center;
   /* background-color: #913b3b; */
+  font-size: 16px;
+  font-family: 'Noto Sans KR', sans-serif;
 }
 .header .inner-header .nav .gnb ul>li a{
   font-size: 21px;
